@@ -1,6 +1,6 @@
-package com.wenjian.mapper;
+package com.wenjian.monomer.persistent;
 
-import com.wenjian.entityclass.User;
+import com.wenjian.monomer.entity.pojo.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

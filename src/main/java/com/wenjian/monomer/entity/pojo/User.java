@@ -1,4 +1,4 @@
-package com.wenjian.entityclass;
+package com.wenjian.monomer.entity.pojo;
 
 public class User {
     // 主键

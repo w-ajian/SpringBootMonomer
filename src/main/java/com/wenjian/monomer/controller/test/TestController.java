@@ -1,7 +1,7 @@
-package com.wenjian.controller;
+package com.wenjian.monomer.controller.test;
 
-import com.wenjian.entityclass.User;
-import com.wenjian.mapper.UserMapper;
+import com.wenjian.monomer.entity.pojo.User;
+import com.wenjian.monomer.persistent.UserMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
