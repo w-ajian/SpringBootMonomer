@@ -1,10 +1,10 @@
-package com.wmybatis.mybatisspringboot;
+package com.wenjian.monomer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MybatisspringbootApplicationTests {
+class MybatisApplicationTests {
 
     @Test
     void contextLoads() {
